@@ -2,7 +2,7 @@ name: Hello_World GitHub Actions
 on:
   workflow_dispatch:
 jobs:
-  hello:
+  hello_World:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
